@@ -1,5 +1,5 @@
 import React from 'react';
-import ProjectCard from './projectcard';
+import ProjectCard from './ProjectCard';
 import { SectionWrapper2 } from '../hoc';
 import { projects2 } from '../constants';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import ProjectCard from './projectcard';
+import ProjectCard from './ProjectCard';
 import { motion } from 'framer-motion';
 
 import { styles } from '../styles';
