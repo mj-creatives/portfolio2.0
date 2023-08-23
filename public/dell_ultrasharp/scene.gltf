@@ -494,13 +494,13 @@
       "uri": "textures/material_4_baseColor.png"
     },
     {
-      "uri": "textures/.002_baseColor.jpeg"
+      "uri": "textures/002_baseColor.jpeg"
     },
     {
-      "uri": "textures/.001_baseColor.png"
+      "uri": "textures/001_baseColor.png"
     },
     {
-      "uri": "textures/.003_baseColor.png"
+      "uri": "textures/003_baseColor.png"
     }
   ],
   "materials": [
