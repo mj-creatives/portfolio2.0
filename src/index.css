@@ -202,3 +202,20 @@
       -2.6em 0em 0 0em rgba(255, 255, 255, 0.7), -1.8em -1.8em 0 0em #ffffff;
   }
 }
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1.5px solid green;
+}
+
+.player-wrapper {
+  position: relative;
+  padding-top: 56.25%;
+  margin-top: 1rem;
+  z-index: 1000;
+  /* 720 / 1280 = 0.5625 */
+}
